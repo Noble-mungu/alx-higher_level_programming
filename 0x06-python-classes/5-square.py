@@ -60,7 +60,7 @@ class Square:
         Returns:
             None
         """
-        if self.__size == 0:
+            if self.__size == 0:
             print()
             return
         for i in range(self.__size):
